@@ -59,8 +59,11 @@ Priority | As a ... | I want to ... | So that I can...
 `* * *` | user | add a new person |
 `* * *` | user | delete a person | remove entries that I no longer need
 `* * *` | user | find a person by name | locate details of persons without having to go through the entire list
+`* * *` | user | update a person | update address book if someone changes his/her contact details
 `* *` | user | hide [private contact details](#private-contact-detail) by default | minimize chance of someone else seeing them by accident
+`* *` | user | add tags to a person | store additional information about someone
 `*` | user with many persons in the address book | sort persons by name | locate a person easily
+`*` | russian user | have a language option | input my russian friends with russian names
 
 
 ## Appendix B : Use Cases
